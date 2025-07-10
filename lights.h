@@ -10,11 +10,11 @@
 // pins
 //=========================================================
 
-#define PIN_LIGHT1		27
+#define PIN_LIGHT1		25
 #define PIN_LIGHT2		26
-#define PIN_LIGHT3		25
-#define PIN_LIGHT4		33
-#define PIN_LIGHT5		32
+#define PIN_LIGHT3		27
+#define PIN_LIGHT4		14
+#define PIN_LIGHT5		12
 
 
 //------------------------
