@@ -23,7 +23,7 @@
 
 #define LIGHT_CONTROLLER			"lightController"
 #define LIGHT_CONTROLLER_VERSION	"lc0.2"
-#define LIGHT_CONTROLLER_URL		"https://github.com/phorton1/Arduino-lightController"
+#define LIGHT_CONTROLLER_URL		"https://github.com/phorton1/Arduino-boat-lightController"
 
 #define ID_LIGHT1		"LIGHT1"
 #define ID_LIGHT2		"LIGHT2"
